@@ -1,0 +1,4 @@
+C:\Users\Sebastian\Desktop\publish\appsettings.Development.json
+C:\Users\Sebastian\Desktop\publish\appsettings.json
+C:\Users\Sebastian\Desktop\publish\WorkerService1.pdb
+C:\Users\Sebastian\Desktop\publish\WorkerService1.exe
