@@ -1,0 +1,4 @@
+C:\Users\Sebastian\Desktop\publishServer\appsettings.Development.json
+C:\Users\Sebastian\Desktop\publishServer\appsettings.json
+C:\Users\Sebastian\Desktop\publishServer\ServerWorker.pdb
+C:\Users\Sebastian\Desktop\publishServer\ServerWorker.exe
