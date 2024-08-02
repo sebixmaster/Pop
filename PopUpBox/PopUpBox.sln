@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopUpBox", "PopUpBox\PopUpBox.csproj", "{8555A3D3-E540-47CD-A37F-5A396B363A0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8555A3D3-E540-47CD-A37F-5A396B363A0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8555A3D3-E540-47CD-A37F-5A396B363A0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8555A3D3-E540-47CD-A37F-5A396B363A0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8555A3D3-E540-47CD-A37F-5A396B363A0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50B27850-3D3F-4DC0-852B-A1A553F6CBAC}
+	EndGlobalSection
+EndGlobal

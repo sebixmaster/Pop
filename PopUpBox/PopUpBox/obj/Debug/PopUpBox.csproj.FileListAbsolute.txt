@@ -1,0 +1,10 @@
+C:\Users\olekk\source\repos\PopUpBox\PopUpBox\bin\Debug\PopUpBox.exe.config
+C:\Users\olekk\source\repos\PopUpBox\PopUpBox\bin\Debug\PopUpBox.exe
+C:\Users\olekk\source\repos\PopUpBox\PopUpBox\bin\Debug\PopUpBox.pdb
+C:\Users\olekk\source\repos\PopUpBox\PopUpBox\obj\Debug\PopUpBox.csproj.AssemblyReference.cache
+C:\Users\olekk\source\repos\PopUpBox\PopUpBox\obj\Debug\PopUpBox.Form1.resources
+C:\Users\olekk\source\repos\PopUpBox\PopUpBox\obj\Debug\PopUpBox.Properties.Resources.resources
+C:\Users\olekk\source\repos\PopUpBox\PopUpBox\obj\Debug\PopUpBox.csproj.GenerateResource.cache
+C:\Users\olekk\source\repos\PopUpBox\PopUpBox\obj\Debug\PopUpBox.csproj.CoreCompileInputs.cache
+C:\Users\olekk\source\repos\PopUpBox\PopUpBox\obj\Debug\PopUpBox.exe
+C:\Users\olekk\source\repos\PopUpBox\PopUpBox\obj\Debug\PopUpBox.pdb
