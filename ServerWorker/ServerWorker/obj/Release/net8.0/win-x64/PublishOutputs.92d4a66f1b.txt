@@ -1,0 +1,5 @@
+C:\Users\olekk\Desktop\PopBox\appsettings.Development.json
+C:\Users\olekk\Desktop\PopBox\appsettings.json
+C:\Users\olekk\Desktop\PopBox\ServerWorker.pdb
+C:\Users\olekk\Desktop\PopBox\sni.dll
+C:\Users\olekk\Desktop\PopBox\ServerWorker.exe

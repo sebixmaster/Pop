@@ -4,12 +4,17 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>dotnet-ServerWorker-431e8230-225d-4d65-b85a-86264e96d26c</UserSecretsId>
+    <UserSecretsId>dotnet-ServerWorker-b6b267a8-e95c-4a53-a4df-59a57b4281a7</UserSecretsId>
 	<PublishSingleFile>true</PublishSingleFile>
+	 <!-- <OutputType>WinExe</OutputType> -->
   </PropertyGroup>
+
+	<ItemGroup>
+	</ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.0" />
-	<PackageReference Include="Microsoft.Extensions.Hosting.WindowsServices" Version="8.0.0"></PackageReference>
+	<PackageReference Include="Microsoft.Extensions.Hosting.WindowsServices" Version="8.0.0"/>
+	<PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
   </ItemGroup>
 </Project>
