@@ -1,0 +1,5 @@
+C:\Users\Sebastian\Desktop\publish\appsettings.Development.json
+C:\Users\Sebastian\Desktop\publish\appsettings.json
+C:\Users\Sebastian\Desktop\publish\config.json
+C:\Users\Sebastian\Desktop\publish\SendMessageClient.pdb
+C:\Users\Sebastian\Desktop\publish\SendMessageClient.exe

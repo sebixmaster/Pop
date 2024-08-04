@@ -1,0 +1,5 @@
+C:\Users\olekk\Desktop\ClientPublish\appsettings.Development.json
+C:\Users\olekk\Desktop\ClientPublish\appsettings.json
+C:\Users\olekk\Desktop\ClientPublish\config.json
+C:\Users\olekk\Desktop\ClientPublish\SendMessageClient.pdb
+C:\Users\olekk\Desktop\ClientPublish\SendMessageClient.exe
